@@ -24,7 +24,7 @@ I am a 🌐 developer who ❤️ solving complex 🧩 and drinking 🍵.
 - 🤔 I would like help with deep learning Sass and an introduction to Java.
 - 💬 Ask me about Jesus Christ.
 - 📫 How to reach me: [Email](mailto:tina.bisgaard.94.gmail.com)
-- 🌐 See what I'm up to: [Portfolio page](https://tinas-personal-portfolio.herokuapp.com/)
+- 🌐 See what I'm up to: [Portfolio page](https://tinas-portfolio.herokuapp.com/)
 - ⚡ Fun fact: Bananas are curved because they grow towards the sun.
 
 ----
